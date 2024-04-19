@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.38.1](https://github.com/cocogitto/octocrab/compare/v0.38.0...v0.38.1) - 2024-04-19
+
+### Added
+- add check run pull requests and list parameters
+
 ## [0.38.0](https://github.com/XAMPPRocky/octocrab/compare/v0.37.0...v0.38.0) - 2024-04-09
 
 ### Added
